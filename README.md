@@ -95,7 +95,7 @@ proyecto-incremental-soda/
 │   ├── Proyecto.docx                                      # Expediente del proyecto (secciones 00 a 10 y conclusiones)
 │   ├── Pollos_La_Diabla_Backlog_y_Seguimiento_Scrum.xlsx  # Backlog, Sprints, entregas y seguimiento de puntos
 │   └── Avance1.docx · Avance2.docx · Avance3.docx         # Avances entregados durante el curso
-├── codigo/       # Carpeta destinada al código fuente del sistema
+├── prototipo/    # Imágenes del prototipo del sistema
 └── README.md
 ```
 
@@ -107,6 +107,7 @@ proyecto-incremental-soda/
   - **Sprints:** tareas por Sprint con responsable y estado (Por hacer, En curso, En revisión, Finalizado).
   - **Entregas:** cronograma de entregas y presupuesto.
   - **Seguimiento:** historias aceptadas, puntos terminados, puntos pendientes y velocidad.
+- **Prototipo** (`prototipo/`): imágenes del diseño del sistema, con la selección de productos, las observaciones y el registro del pedido, la consulta de pedidos activos y la preparación y entrega.
 
 ## Forma de trabajo
 
